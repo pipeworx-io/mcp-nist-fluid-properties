@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nist-fluid-properties",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "NIST Chemistry WebBook — Thermophysical Properties of Fluid Systems.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-84419300f792388fde66d330109088bdd0b2d1e3ca11cf9f5c30f941b4c77138",
-    "sourceCommit": "5d8d3a58a457b8464c117515d81b8b6ecb53fdfb"
+    "sourceHash": "v1-a2df3e4e4b900aaf185bec595646e4f40e9d05b8d459943f1c57166b05e3a2ea",
+    "sourceCommit": "774de7f685a75e02d0b828d24a7b94794102152c"
   }
 }
